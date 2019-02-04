@@ -1,0 +1,33 @@
+.card{
+    border-style:solid; 
+    padding: 5px; 
+    border-width: 1px; 
+    border-color: black; 
+    width: 80%;
+    align-items: center;
+    margin: 20px
+}
+.clapping{
+    height: 25%
+}
+.like{
+    height: 25%;
+    float: right;
+}
+.image{
+    height: 300px;
+    float: center;
+}
+.date{
+    float: left
+}
+.readTime{
+    float: right
+}
+.title{
+    clear: both
+}
+.navItems{
+    float:right; 
+    padding-right: 50px
+}
